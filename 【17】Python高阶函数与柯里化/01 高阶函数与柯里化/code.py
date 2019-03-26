@@ -35,10 +35,18 @@
 # print('质数个数', count_prime_nums(1000))
 
 # 变量作用域
-# 块级作用域
-num = int(input('请输入一个整数： '))
-if num % 2 == 0:
-    info = '偶数'
-else:
-    info = '奇数'
-print(info)
+# 块级作用域，python里没有块级作用域概念
+# num = int(input('请输入一个整数： '))
+# if num % 2 == 0:
+#     info = '偶数'
+# else:
+#     info = '奇数'
+# print(info)
+
+# 局部作用域：函数内部定义的变量，函数外部不能访问到
+# def fn():
+#     name = 'a'
+# fn()
+# print(name)
+
+#
