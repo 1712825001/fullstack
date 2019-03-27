@@ -12,7 +12,7 @@
 #             if num % i == 0:
 #                 return False
 #         return True
-# # 装饰器函数
+# # 装饰器函数，在不改变源码的情况下实现新增功能
 # def display_time(func):
 #     def wrapper(*args): # 代表运行函数的哪些内容
 #         t1 = time.time()
@@ -100,3 +100,114 @@
 # f2()
 
 # global nolocal
+
+# name = 'aaa'
+#
+# def f():
+#     global name
+#     name = 'bbb'
+#     print(name)
+#
+# f()
+# print(name)
+
+# global:代表全局变量 nonlocal代表外层变量
+# name = 'aaa'
+#
+# def f():
+#     name = 'bbb'
+#
+#     def inner():
+#         nonlocal name
+#         name = 'ccc'
+#
+#     inner()
+#     print(name)
+# f()
+
+# 闭包
+# x = 0
+# def outer():
+#     x = 1
+#     def inner():
+#         x = 2
+#         print('inner', x)
+#
+#     inner()
+#     print('outer', x)
+#
+# outer()
+# print('global', x)
+
+# nonlocal
+# x = 0
+# def outer():
+#     x = 1
+#
+#     def inner():
+#         nonlocal x
+#         x = 2
+#         print('inner', x)
+#
+#     inner()
+#     print('outer', x)
+#
+#
+# outer()
+# print('global', x)
+
+# global
+
+# x = 0
+# def outer():
+#     x = 1
+#
+#     def inner():
+#         global x
+#         x = 2
+#         print('inner', x)
+#
+#     inner()
+#     print('outer', x)
+#
+#
+# outer()
+# print('global', x)
+
+# 闭包：内层函数引用了外层函数的自由变量，内层函数会将外层函数的变量封装到函数里，直到内层函数被调用才会被释放
+# def f():
+#     name = 'aaa'
+#
+#     def inner():
+#         print(name)
+#     return inner
+# a = f()
+# a()
+
+# def f():
+#     temp = []
+#     for i in range(10):
+#         def inner():
+#             print(i)
+#         temp.append(inner)
+#     return temp
+#
+# funcs = f()
+# funcs[0]()
+
+import time
+
+def timer(function):
+    def wrapper(*args):
+        start_time = time.time()
+        function(*args)
+        end_time = time.time()
+        print("花费时间：{}秒".format(end_time - start_time))
+    return wrapper
+
+@timer
+def Time(s):
+    time.sleep(s)
+
+if __name__ == '__main__':
+    Time(2)
