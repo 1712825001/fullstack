@@ -23,3 +23,10 @@ print(l)
 # insert
 print(l.insert(1, '王书'))
 print(l)
+
+# extend
+print(l.extend(range(5)))
+print(l)
+
+# +
+print(l + list(range(100,106)))
