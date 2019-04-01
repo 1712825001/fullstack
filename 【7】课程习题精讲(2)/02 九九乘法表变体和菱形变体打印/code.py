@@ -19,9 +19,12 @@ response = client.do_action_with_exception(request)
 import json
 t = json.loads(response)
 
-# for k,v in t.items():
-#    print(k, v)
+for k,v in t.items():
+   print(k, v)
 
 t1 = t['Instances']['Instance']
 for v in t1:
    print(v)
+
+import subprocess
+print(subprocess.getoutput('ls -al'))
