@@ -20,14 +20,14 @@
 # print(num2, num1) if num1 > num2 else print(num1, num2)
 
 # 依次输入若干个整数，打印最大值。如果输入为空，退出程序
-# m = int(input('Input first number >>>'))
+# module = int(input('Input first number >>>'))
 # while True:
 #     c = input('Input a number >>>')
 #     if c:
 #         n = int(c)
-#         if n > m:
+#         if n > module:
 #             max = n
-#         print('max is', m)
+#         print('max is', module)
 #     else:
 #         break
 
