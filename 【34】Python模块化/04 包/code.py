@@ -1,14 +1,14 @@
 # 如果目录有__init__可以叫包
-import m.m1
+import n.m1
 print('============================')
 
-print(dir(m))
+print(dir(n))
 print('=============================')
 
-print(m.__name__)
+print(n.__name__)
 print('============================')
 
-print(type(m))
+print(type(n))
 print('=============================')
 
 # dir locals globals是一回事
@@ -16,8 +16,8 @@ print(dir())
 print(sorted(locals().keys()))
 print(sorted(globals().keys()))
 
-import m.m2.m22
-import m.m2.m21
+import n.m2.m22
+import n.m2.m21
 
 import os
 print(__file__)

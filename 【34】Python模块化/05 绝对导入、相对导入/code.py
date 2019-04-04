@@ -1,4 +1,4 @@
-import m.m1
-print(m.m1.x)
-print(m.m1._y)
-print(m.m1.__my__)
+import n.m1
+print(n.m1.x)
+print(n.m1._y)
+print(n.m1.__my__)
