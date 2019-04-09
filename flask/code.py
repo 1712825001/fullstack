@@ -16,8 +16,7 @@ def hello_world():
 def index():
     if 'username'  in session:
         return '用户已登录'
-    else:
-        return '没有登录'
+    return '没有登录'
 
 @app.route('/login/', methods=['POST','GET'])
 def login():
