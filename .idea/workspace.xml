@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/01 前端开发技术概述/code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/02 前端开发发展和开发环境搭建/.vscode/settings.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/02 前端开发发展和开发环境搭建/code.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,9 +117,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="480" />
-    <option name="y" value="114" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="163" />
+    <option name="y" value="122" />
     <option name="width" value="1400" />
     <option name="height" value="864" />
   </component>
@@ -415,11 +412,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554359881316</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="8341">
+      <created>1554874143246</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554874143246</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="480" y="114" width="1400" height="864" extended-state="0" />
+    <frame x="163" y="122" width="1400" height="864" extended-state="1" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5826211" sideWeight="0.5065312" order="7" side_tool="true" content_ui="tabs" />
