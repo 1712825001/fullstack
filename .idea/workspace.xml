@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/04 默认值的本质/code.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/05 LEGB和函数的销毁/code.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js" afterPath="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,16 +22,16 @@
     <SUITE FILE_PATH="coverage/fullstack$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1554338133242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
     <SUITE FILE_PATH="coverage/fullstack$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1554885874678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【14】Python函数(一)定义和参数/01 函数定义传参和默认值" />
     <SUITE FILE_PATH="coverage/fullstack$test.coverage" NAME="test Coverage Results" MODIFIED="1555827705913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【53】前端开发之ES6入门(二)" />
-    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1554679738848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【36】Python进程和线程(一)/02 进程和线程以及线程的创建和传参" />
+    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1556325669852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/04 默认值的本质" />
     <SUITE FILE_PATH="coverage/fullstack$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1554793768395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【36】Python进程和线程(一)/03 线程属性和方法及start、run的区别" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="code.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="code.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/05 LEGB和函数的销毁/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,8 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/【27】Python面向对象(一)/03 实例变量和类变量及实例属性访问顺序/code.py" />
-        <option value="$PROJECT_DIR$/【6】课程习题精讲(1)与Python列表/05 列表的基本操作/code.py" />
         <option value="$PROJECT_DIR$/【7】课程习题精讲(2)/01 九九乘法表各种实现/code.py" />
         <option value="$PROJECT_DIR$/【24】正则表达式和re模块/01 正则表达式元字符和重复/code.py" />
         <option value="$PROJECT_DIR$/【27】Python面向对象(一)/04 类方法和静态方法装饰器/code.py" />
@@ -109,6 +108,8 @@
         <option value="$PROJECT_DIR$/【14】Python函数(一)定义和参数/02 可变参数/code.py" />
         <option value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/test.py" />
         <option value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js" />
+        <option value="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/04 默认值的本质/code.py" />
+        <option value="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/05 LEGB和函数的销毁/code.py" />
       </list>
     </option>
   </component>
@@ -118,8 +119,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="797" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="731" />
+    <option name="y" value="58" />
     <option name="width" value="1400" />
     <option name="height" value="1051" />
   </component>
@@ -141,13 +143,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
               <item name="fullstack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fullstack" type="462c0819:PsiDirectoryNode" />
+              <item name="【15】Python函数(二)返回值和作用域" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fullstack" type="462c0819:PsiDirectoryNode" />
+              <item name="【17】Python高阶函数与柯里化" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
@@ -165,10 +176,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="last_opened_file_path" value="D:/Program Files (x64)/Git/cmd/git.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -193,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.code">
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,20 +263,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【36】Python进程和线程(一)/03 线程属性和方法及start、run的区别" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/04 默认值的本质" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="fullstack" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【36】Python进程和线程(一)/03 线程属性和方法及start、run的区别/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/04 默认值的本质/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,18 +303,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.code (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.code (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.code (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.code (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.code (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.code" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.code (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.code (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.code (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.code" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.code (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.code (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.code (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -471,16 +483,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="797" y="0" width="1400" height="1051" extended-state="0" />
+    <frame x="731" y="58" width="1400" height="1051" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5826211" sideWeight="0.5065312" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27159092" sideWeight="0.49257812" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34758157" sideWeight="0.49257812" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24112903" sideWeight="0.4934688" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27939042" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33381712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32983872" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -545,45 +557,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/pydoc_data/__init__.py" />
-    <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/pydoc_data/_pydoc.css" />
-    <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/json/encoder.py" />
-    <entry file="file://$PROJECT_DIR$/【24】正则表达式和re模块/01 正则表达式元字符和重复/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【34】Python模块化/03 模块加载搜索和主模块用途/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【34】Python模块化/02 import和from语句使用/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【34】Python模块化/04 包/m/test.py" />
-    <entry file="file://$PROJECT_DIR$/【34】Python模块化/04 包/m/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/【34】Python模块化/03 模块加载搜索和主模块用途/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/m1.py" />
-    <entry file="file://$PROJECT_DIR$/module/__init__.py" />
-    <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/m2/__init__.py" />
-    <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/m2/m22.py" />
-    <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/__init__.py" />
-    <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/m2/m21/__init__.py" />
     <entry file="file://$PROJECT_DIR$/【34】Python模块化/05 绝对导入、相对导入/t1.py" />
     <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/test.py" />
     <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/m1.py" />
@@ -694,19 +667,147 @@
     <entry file="file://$PROJECT_DIR$/【37】Python进程和线程(二)/01 线程安全和daemon/code.py" />
     <entry file="file://$PROJECT_DIR$/【52】前端开发之ES6入门(一)/02 前端开发发展和开发环境搭建/code.js" />
     <entry file="file://$PROJECT_DIR$/【52】前端开发之ES6入门(一)/03 JS标识符类型转换字符串和数值/code.js" />
-    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/01 函数定义传参和默认值/code.py" />
-    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/02 可变参数/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/【53】前端开发之ES6入门(二)/test.py" />
     <entry file="file://$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【11】课程习题精讲(4)与set集合/05 set操作和hash/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【12】集合运算与字典/04 缺省字典、有序字典、字典习题讲解/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【13】解析式和生成器表达式/03 集合和字典解析式/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【13】解析式和生成器表达式/05 内建函数/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【12】集合运算与字典/03 字典遍历和删除注意事项/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/01 函数定义传参和默认值/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/03 keyword-only参数和参数解构/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/04 函数习题打印三角/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/05 插入排序/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/02 可变参数/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/01 函数的返回值/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【17】Python高阶函数与柯里化/04 B站讲解/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【17】Python高阶函数与柯里化/01 高阶函数与柯里化/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/02 函数作用域/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/03 global、nonlocal和闭包/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/04 默认值的本质/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="64" column="40" lean-forward="false" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/05 LEGB和函数的销毁/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
