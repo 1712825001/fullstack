@@ -63,13 +63,42 @@
 
 # __defaults使用元组保存所有位置参数默认值
 # __kwdefaults使用字典保存所有keyword-only参数的默认值
-def foo(w,u='abc',*,z=123,zz=[456]):
-    u = 'xyz'
-    z = 789
-    zz.append(1)
-    print(w,u,z,zz)
-print(foo.__defaults__) # ('abc',)
-print(foo('magedu')) # magedu xyz 789 [456, 1]
-print(foo.__kwdefaults__) # {'z': 123, 'zz': [456, 1]}
+# def foo(w,u='abc',*,z=123,zz=[456]):
+#     u = 'xyz'
+#     z = 789
+#     zz.append(1)
+#     print(w,u,z,zz)
+# print(foo.__defaults__) # ('abc',)
+# print(foo('magedu')) # magedu xyz 789 [456, 1]
+# print(foo.__kwdefaults__) # {'z': 123, 'zz': [456, 1]}
+
+# def foo(xyz=[],u='abc',z=123):
+#     xyz = xyz[:]
+#     xyz.append(1)
+#     print(xyz)
+#
+# print(foo()) # [1]
+# print(foo.__defaults__) # ([], 'abc', 123)
+# print(foo()) # [1]
+# print(foo.__defaults__) # ([], 'abc', 123)
+# print(foo([10])) # [10, 1]
+# print(foo.__defaults__) # ([], 'abc', 123)
+# print(foo([10,5])) # [10, 5, 1]
+# print(foo.__defaults__) # ([], 'abc', 123)
+
+def foo(xyz=None,u='abc',z=123):
+    if xyz is None:
+        xyz = []
+    xyz.append(1)
+    print(xyz)
+
+print(foo()) # [1]
+print(foo.__defaults__) # (None, 'abc', 123)
+print(foo()) # [1]
+print(foo.__defaults__) # (None, 'abc', 123)
+print(foo([10])) # [10, 1]
+print(foo.__defaults__) # (None, 'abc', 123)
+print(foo([10,5])) # [10, 5, 1]
+print(foo.__defaults__) # (None, 'abc', 123)
 
 

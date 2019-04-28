@@ -4,5 +4,5 @@ class Test():
     def eat(self):
         print('eat')
 
-a = Test()
-a.eat()
+a = Test() # aaa
+a.eat() # eat
