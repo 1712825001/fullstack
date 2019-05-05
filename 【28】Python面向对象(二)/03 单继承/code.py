@@ -13,3 +13,23 @@
 # cat = Cat()
 # cat.shout()
 
+# 继承
+class Animal:
+    age = 10
+    def __init__(self, name):
+        self.name = name
+
+    def shout(self):
+        print('{} shout'.format(type(self).__name__))
+
+class Cat(Animal):
+    pass
+
+animal = Animal('动物')
+animal.shout()
+print(animal.name, animal.age)
+
+c = Cat('黑子')
+c.shout()
+print(c.name,c.age)
+
