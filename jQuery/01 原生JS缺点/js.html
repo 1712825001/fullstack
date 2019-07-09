@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" value="设置边框" id="btnOne" />
+<input type="button" value="设置文本" id="btnTwo" />
+<div></div>
+<div></div>
+<div></div>
+</body>
+</html>
+
+<script>
+    // 入口函数
+    window.onload = function (ev) {
+        // 元素获取对应的元素
+        var btnOne = document.getElementById("btnOne");
+        var btnTwo = document.getElementById("btnTwo");
+        var divs = document.getElementsByTagName("div")
+        // btnOne设置点击事件
+        btnOne.onclick = function (ev1) {
+            for(var i = 0;i < divs.length;i++){
+                divs[i].style.border = '1px solid red';
+            }
+        }
+        btnTwo.onclick = function (ev1) {
+            for(var i = 0;i < divs.length;i++){
+                divs[i].textContent = '我是文本'
+            }
+        }
+    }
+// 第二个入口函数
+    window.onload = function (ev) {
+        alert('另一个入口函数')
+    }
+</script>
+// 原生js缺点
+<!--
+1. 不能添加多个入口函数，后面的会覆盖之前的
+2. 原生js的api名字太长
+3. 原生js代码冗余
+4. 浏览器兼容
+5. 容错率低，前面出现问题，后面不能执行
+-->

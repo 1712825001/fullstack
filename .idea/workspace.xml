@@ -2,39 +2,118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod @property/code.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/【0】网络拾遗/super/code.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/【0】网络拾遗/装饰器/code.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/jQuery/01 原生JS缺点/js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/02 体验jQuery/jQuery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/02 体验jQuery/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/03 js的一个库/code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQuery/04 如何使用jQuery/code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【0】网络拾遗/hasattr、getattr、setattr/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/myRedis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/pymongodb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/pymysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【16】Python函数(三)递归和匿名函数/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/01 文件编码/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/04 缓冲区/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/05 文件对象的读写方法/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/06 上下文管理/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/06 上下文管理/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/01 习题base64解码/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/02 习题命令分发器、copy和单词统计/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/03 StringIO和BytesIO和os.path/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/04 Path对象基本操作/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/05 通配和文件操作/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/01 shutil模块使用/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/02 csv模块使用/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/03 ini文件操作/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/04 序列化和反序列化及pickle/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/05 msgpack使用/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【24】正则表达式和re模块/03 正则习题/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【24】正则表达式和re模块/04 Python的re模块使用/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【32】Python面向对象进阶(三)/01 反射基本概念/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【33】Python异常处理/03 异常的继承、子句、嵌套、总结/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【50】Python数据库编程(二)/04 Pymysql使用/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构和算法/01 算法引入/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fullstack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fullstack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【0】网络拾遗/装饰器/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【0】网络拾遗/装饰器/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【17】Python高阶函数与柯里化/04 B站讲解/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/01 文件编码/.ipynb_checkpoints/code-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/01 文件编码/code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/01 文件编码/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/01 文件编码/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/.ipynb_checkpoints/code-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/test3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/.ipynb_checkpoints/code-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/04 缓冲区/.ipynb_checkpoints/code-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/04 缓冲区/code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/04 缓冲区/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【24】正则表达式和re模块/01 正则表达式元字符和重复/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【24】正则表达式和re模块/01 正则表达式元字符和重复/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【24】正则表达式和re模块/02 正则的分组断言贪婪非贪婪/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【24】正则表达式和re模块/02 正则的分组断言贪婪非贪婪/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【33】Python异常处理/02 异常概念、产生和捕获/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【33】Python异常处理/02 异常概念、产生和捕获/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/01 前端开发技术概述/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/02 前端开发发展和开发环境搭建/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/02 前端开发发展和开发环境搭建/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/03 JS标识符类型转换字符串和数值/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/04 运算符三目运算符逗号表达式生成器/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/fullstack$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1558062619605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/装饰器" />
-    <SUITE FILE_PATH="coverage/fullstack$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1558055247218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/super" />
-    <SUITE FILE_PATH="coverage/fullstack$m1.coverage" NAME="m1 Coverage Results" MODIFIED="1554338136638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
-    <SUITE FILE_PATH="coverage/fullstack$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1557712995106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【28】Python面向对象(二)/03 单继承" />
-    <SUITE FILE_PATH="coverage/fullstack$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1554278403645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【34】Python模块化/02 import和from语句使用" />
     <SUITE FILE_PATH="coverage/fullstack$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1554338133242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
-    <SUITE FILE_PATH="coverage/fullstack$test.coverage" NAME="test Coverage Results" MODIFIED="1557713329811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环" />
-    <SUITE FILE_PATH="coverage/fullstack$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1557996789363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod区别" />
-    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1558060502322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod @property" />
-    <SUITE FILE_PATH="coverage/fullstack$pro.coverage" NAME="pro Coverage Results" MODIFIED="1556446648301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【27】Python面向对象(一)/04 类方法和静态方法装饰器" />
+    <SUITE FILE_PATH="coverage/fullstack$cat.coverage" NAME="cat Coverage Results" MODIFIED="1560921475345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用" />
+    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1560999093449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/hasattr、getattr、setattr" />
     <SUITE FILE_PATH="coverage/fullstack$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1557801374648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【53】前端开发之ES6入门(二)" />
+    <SUITE FILE_PATH="coverage/fullstack$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1560474073022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【33】Python异常处理/02 异常概念、产生和捕获" />
+    <SUITE FILE_PATH="coverage/fullstack$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1560470117985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/01 shutil模块使用" />
+    <SUITE FILE_PATH="coverage/fullstack$m1.coverage" NAME="m1 Coverage Results" MODIFIED="1554338136638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/fullstack$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1560920039240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用" />
+    <SUITE FILE_PATH="coverage/fullstack$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1560415749659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式" />
+    <SUITE FILE_PATH="coverage/fullstack$test.coverage" NAME="test Coverage Results" MODIFIED="1560919495069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用" />
+    <SUITE FILE_PATH="coverage/fullstack$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1560923767870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【32】Python面向对象进阶(三)/01 反射基本概念" />
+    <SUITE FILE_PATH="coverage/fullstack$animal.coverage" NAME="animal Coverage Results" MODIFIED="1560920892974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用" />
+    <SUITE FILE_PATH="coverage/fullstack$pro.coverage" NAME="pro Coverage Results" MODIFIED="1556446648301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【27】Python面向对象(一)/04 类方法和静态方法装饰器" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fullstack" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率/code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Setup Script" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -50,91 +129,75 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/__init__.py" />
-        <option value="D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/m2/m21/__init__.py" />
-        <option value="D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/m2/__init__.py" />
-        <option value="D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/m2/m22.py" />
-        <option value="$PROJECT_DIR$/【34】Python模块化/04 包/code.py" />
-        <option value="$PROJECT_DIR$/【34】Python模块化/05 绝对导入、相对导入/t1.py" />
-        <option value="D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/m1.py" />
-        <option value="D:/Program Files (x64)/Python3.6.8/Lib/site-packages/m/test.py" />
-        <option value="$PROJECT_DIR$/test/test.py" />
-        <option value="$PROJECT_DIR$/【34】Python模块化/05 绝对导入、相对导入/code.py" />
-        <option value="$PROJECT_DIR$/m/__init__.py" />
-        <option value="$PROJECT_DIR$/m/m1.py" />
-        <option value="$PROJECT_DIR$/m/m2/m22.py" />
-        <option value="$PROJECT_DIR$/m/m2/__init__.py" />
-        <option value="$PROJECT_DIR$/m/m2/m21/__init__.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/n.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/01 python包管理和打包分发/test.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/02 插件化开发和接口/code.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/03 Gogs安装/code.py" />
-        <option value="$PROJECT_DIR$/m/code.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/01 python包管理和打包分发/code.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/04 Git由来和基本概念操作/code.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/05 Git操作增删改检出重置比较/code.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/06 Git的Push和Clone/code.py" />
-        <option value="$PROJECT_DIR$/【35】Python包管理与Git版本管理/07 Git分支和工作流管理/code.py" />
-        <option value="$PROJECT_DIR$/【33】Python异常处理/02 异常概念、产生和捕获/code.py" />
-        <option value="$PROJECT_DIR$/flask/code.py" />
-        <option value="$PROJECT_DIR$/【36】Python进程和线程(一)/03 线程属性和方法及start、run的区别/test.py" />
-        <option value="$PROJECT_DIR$/【36】Python进程和线程(一)/03 线程属性和方法及start、run的区别/code.py" />
-        <option value="$PROJECT_DIR$/【37】Python进程和线程(二)/01 线程安全和daemon/code.py" />
-        <option value="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/01 前端开发技术概述/code.js" />
-        <option value="$PROJECT_DIR$/【52】前端开发之ES6入门(一)/03 JS标识符类型转换字符串和数值/code.js" />
-        <option value="$PROJECT_DIR$/【14】Python函数(一)定义和参数/01 函数定义传参和默认值/code.py" />
-        <option value="$PROJECT_DIR$/【14】Python函数(一)定义和参数/02 可变参数/code.py" />
-        <option value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js" />
-        <option value="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/05 LEGB和函数的销毁/code.py" />
-        <option value="$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/04 默认值的本质/code.py" />
-        <option value="$PROJECT_DIR$/【27】Python面向对象(一)/01 面向对象概述/code.py" />
-        <option value="$PROJECT_DIR$/【27】Python面向对象(一)/02 类定义和初始化/code.py" />
-        <option value="$PROJECT_DIR$/【27】Python面向对象(一)/03 实例变量和类变量及实例属性访问顺序/code.py" />
-        <option value="$PROJECT_DIR$/【27】Python面向对象(一)/04 类方法和静态方法装饰器/pro.py" />
-        <option value="$PROJECT_DIR$/【27】Python面向对象(一)/04 类方法和静态方法装饰器/code.py" />
-        <option value="$PROJECT_DIR$/【27】Python面向对象(一)/05 访问控制-猴子补丁-属性装饰器-对象销毁/code.py" />
-        <option value="$PROJECT_DIR$/【28】Python面向对象(二)/03 单继承/code.py" />
-        <option value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/aliyun.py" />
-        <option value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/test.py" />
-        <option value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/test.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod区别/code.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/super/code.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod @property/code.py" />
+        <option value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/01 文件编码/test.txt" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/01 文件编码/code.py" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/06 上下文管理/test.txt" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/06 上下文管理/code.py" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/code.py" />
+        <option value="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/01 shutil模块使用/code.py" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/test.txt" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/code.py" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/04 缓冲区/code.py" />
+        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/05 文件对象的读写方法/code.py" />
+        <option value="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/02 csv模块使用/code.py" />
+        <option value="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/03 ini文件操作/code.py" />
+        <option value="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/04 序列化和反序列化及pickle/code.py" />
+        <option value="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/05 msgpack使用/code.py" />
+        <option value="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/01 习题base64解码/code.py" />
+        <option value="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/02 习题命令分发器、copy和单词统计/code.py" />
+        <option value="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/03 StringIO和BytesIO和os.path/code.py" />
+        <option value="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/04 Path对象基本操作/code.py" />
+        <option value="$PROJECT_DIR$/【21】Python文件IO(二)路径操作/05 通配和文件操作/code.py" />
+        <option value="$PROJECT_DIR$/【33】Python异常处理/02 异常概念、产生和捕获/code.py" />
+        <option value="$PROJECT_DIR$/【33】Python异常处理/03 异常的继承、子句、嵌套、总结/code.py" />
+        <option value="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/code.py" />
+        <option value="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/animal.py" />
+        <option value="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/test.py" />
+        <option value="$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/cat.py" />
+        <option value="$PROJECT_DIR$/【32】Python面向对象进阶(三)/01 反射基本概念/code.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/装饰器/code.py" />
+        <option value="$PROJECT_DIR$/【50】Python数据库编程(二)/04 Pymysql使用/code.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/hasattr、getattr、setattr/code.py" />
+        <option value="$PROJECT_DIR$/【24】正则表达式和re模块/01 正则表达式元字符和重复/code.py" />
+        <option value="$PROJECT_DIR$/【24】正则表达式和re模块/02 正则的分组断言贪婪非贪婪/code.py" />
+        <option value="$PROJECT_DIR$/【24】正则表达式和re模块/03 正则习题/code.py" />
+        <option value="$PROJECT_DIR$/【24】正则表达式和re模块/04 Python的re模块使用/code.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/code.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/redis.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/myRedis.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/pymongodb.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/pymysql.py" />
+        <option value="$PROJECT_DIR$/jQuery/01 原生JS缺点/js.html" />
+        <option value="$PROJECT_DIR$/jQuery/02 体验jQuery/jQuery.html" />
+        <option value="$PROJECT_DIR$/jQuery/03 js的一个库/code.html" />
+        <option value="$PROJECT_DIR$/jQuery/04 如何使用jQuery/code.html" />
+        <option value="$PROJECT_DIR$/【16】Python函数(三)递归和匿名函数/code.py" />
+        <option value="$PROJECT_DIR$/数据结构和算法/01 算法引入/code.py" />
+        <option value="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式/code.py" />
+        <option value="$PROJECT_DIR$/数据结构和算法/03 timeit/code.py" />
+        <option value="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率/code.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="444" />
-    <option name="y" value="21" />
-    <option name="width" value="1400" />
-    <option name="height" value="1051" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,42 +208,36 @@
             <path>
               <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
               <item name="fullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="【17】Python高阶函数与柯里化" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构和算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
               <item name="fullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="【17】Python高阶函数与柯里化" type="462c0819:PsiDirectoryNode" />
-              <item name="01 高阶函数与柯里化" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="【28】Python面向对象(二)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="【28】Python面向对象(二)" type="462c0819:PsiDirectoryNode" />
-              <item name="03 单继承" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构和算法" type="462c0819:PsiDirectoryNode" />
+              <item name="Python列表不同操作效率" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.控制台配色" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\fullstack\【20】Python文件IO(一)文件操作\06 上下文管理" />
       <recent name="E:\fullstack\【35】Python包管理与Git版本管理\01 python包管理和打包分发" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\fullstack\jQuery\02 体验jQuery" />
+      <recent name="E:\fullstack\jQuery" />
+      <recent name="E:\fullstack\jQuery\01 原生JS缺点" />
       <recent name="E:\fullstack" />
       <recent name="E:\fullstack\【34】Python模块化\04 包" />
     </key>
@@ -197,121 +254,95 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.code (3)">
+  <component name="RunManager" selected="Python.code (2)">
+    <configuration name="jQuery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/fullstack/jQuery/02 体验jQuery/jQuery.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="js.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/fullstack/jQuery/01 原生JS缺点/js.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod区别" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fullstack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod区别/code.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/super" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fullstack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/super/code.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="code (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/装饰器" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fullstack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/装饰器/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod @property" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构和算法/01 算法引入" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fullstack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod @property/code.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构和算法/01 算法引入/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fullstack" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【53】前端开发之ES6入门(二)/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.code (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.code (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.code" />
-      <item index="4" class="java.lang.String" itemvalue="Python.code (3)" />
+    <list>
+      <item itemvalue="JavaScript Debug.js.html" />
+      <item itemvalue="JavaScript Debug.jQuery.html" />
+      <item itemvalue="Python.code" />
+      <item itemvalue="Python.code (1)" />
+      <item itemvalue="Python.code (2)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.code (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.code" />
-        <item index="2" class="java.lang.String" itemvalue="Python.code (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.code (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test (1)" />
+      <list>
+        <item itemvalue="Python.code (2)" />
+        <item itemvalue="Python.code (1)" />
+        <item itemvalue="Python.code" />
+        <item itemvalue="JavaScript Debug.jQuery.html" />
+        <item itemvalue="JavaScript Debug.js.html" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -323,6 +354,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553495500377</updated>
+      <workItem from="1561009210550" duration="97000" />
+      <workItem from="1561009337871" duration="666000" />
+      <workItem from="1561010022382" duration="667000" />
+      <workItem from="1561010702886" duration="280000" />
+      <workItem from="1561016118865" duration="5037000" />
+      <workItem from="1561085966282" duration="138000" />
+      <workItem from="1561086119077" duration="39000" />
+      <workItem from="1561086203584" duration="165000" />
+      <workItem from="1561086387962" duration="66000" />
+      <workItem from="1561086468571" duration="237000" />
+      <workItem from="1561086774889" duration="87000" />
+      <workItem from="1561101120045" duration="2739000" />
+      <workItem from="1561159227645" duration="16000" />
+      <workItem from="1561342026135" duration="3027000" />
+      <workItem from="1561345076501" duration="2603000" />
+      <workItem from="1561349701022" duration="31000" />
+      <workItem from="1562284888968" duration="1575000" />
+      <workItem from="1562303728751" duration="3154000" />
+      <workItem from="1562310883655" duration="11000" />
+      <workItem from="1562546489861" duration="1278000" />
+      <workItem from="1562571107349" duration="1517000" />
+      <workItem from="1562630553598" duration="2871000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1553495641884</created>
@@ -474,30 +527,35 @@
     <option name="localTasksCounter" value="22" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26301000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5826211" sideWeight="0.5065312" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2647727" sideWeight="0.49257812" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36363637" sideWeight="0.4934688" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32983872" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.24413905" />
+      <window_info id="Structure" order="1" weight="0.2497979" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.13662086" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49257812" weight="0.5612789" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32983872" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32983872" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4934688" weight="0.3623446" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" weight="0.32983872" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5065312" side_tool="true" weight="0.5826211" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,9 +586,20 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
@@ -541,314 +610,289 @@
     <MESSAGE value="8341" />
     <option name="LAST_COMMIT_MESSAGE" value="8341" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
-    <watches-manager />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fullstack$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1562634068875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率" />
+    <SUITE FILE_PATH="coverage/fullstack$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1561103781341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【24】正则表达式和re模块/04 Python的re模块使用" />
+    <SUITE FILE_PATH="coverage/fullstack$redis.coverage" NAME="redis Coverage Results" MODIFIED="1561344914943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb" />
+    <SUITE FILE_PATH="coverage/fullstack$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1562573309917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式" />
+    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1562571443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/01 算法引入" />
+    <SUITE FILE_PATH="coverage/fullstack$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1561343864815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/【35】Python包管理与Git版本管理/01 python包管理和打包分发/m/m2/m21/__init__.py">
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/06 上下文管理/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【35】Python包管理与Git版本管理/01 python包管理和打包分发/code.py">
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/06 上下文管理/sample.txt" />
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/06 上下文管理/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【35】Python包管理与Git版本管理/05 Git操作增删改检出重置比较/code.py">
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/test1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/02 文件的模式/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【35】Python包管理与Git版本管理/06 Git的Push和Clone/code.py">
+    <entry file="file://$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/01 shutil模块使用/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【35】Python包管理与Git版本管理/07 Git分支和工作流管理/code.py">
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【35】Python包管理与Git版本管理/04 Git由来和基本概念操作/code.py">
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/04 缓冲区/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【20】Python文件IO(一)文件操作/05 文件对象的读写方法/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/02 csv模块使用/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/03 ini文件操作/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/04 序列化和反序列化及pickle/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/05 msgpack使用/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/02 习题命令分发器、copy和单词统计/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/04 Path对象基本操作/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/05 通配和文件操作/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/03 StringIO和BytesIO和os.path/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/【33】Python异常处理/02 异常概念、产生和捕获/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【36】Python进程和线程(一)/02 进程和线程以及线程的创建和传参/code.py">
+    <entry file="file://$PROJECT_DIR$/【33】Python异常处理/03 异常的继承、子句、嵌套、总结/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/01 习题base64解码/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Program Files (x64)/Python3.6.8/Lib/threading.py" />
-    <entry file="file://$PROJECT_DIR$/【36】Python进程和线程(一)/03 线程属性和方法及start、run的区别/test.py" />
-    <entry file="file://$PROJECT_DIR$/【36】Python进程和线程(一)/03 线程属性和方法及start、run的区别/code.py" />
-    <entry file="file://$PROJECT_DIR$/【52】前端开发之ES6入门(一)/01 前端开发技术概述/code.js" />
-    <entry file="file://$PROJECT_DIR$/【52】前端开发之ES6入门(一)/02 前端开发发展和开发环境搭建/code.js" />
-    <entry file="file://$PROJECT_DIR$/【52】前端开发之ES6入门(一)/03 JS标识符类型转换字符串和数值/code.js" />
-    <entry file="file://$PROJECT_DIR$/【11】课程习题精讲(4)与set集合/05 set操作和hash/code.py">
+    <entry file="file://$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【12】集合运算与字典/04 缺省字典、有序字典、字典习题讲解/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【13】解析式和生成器表达式/03 集合和字典解析式/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【13】解析式和生成器表达式/05 内建函数/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【12】集合运算与字典/03 字典遍历和删除注意事项/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/01 函数定义传参和默认值/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/03 keyword-only参数和参数解构/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/04 函数习题打印三角/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/05 插入排序/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【14】Python函数(一)定义和参数/02 可变参数/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/01 函数的返回值/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/02 函数作用域/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/03 global、nonlocal和闭包/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/05 LEGB和函数的销毁/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【15】Python函数(二)返回值和作用域/04 默认值的本质/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="101" column="31" lean-forward="false" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【27】Python面向对象(一)/01 面向对象概述/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【27】Python面向对象(一)/02 类定义和初始化/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【27】Python面向对象(一)/03 实例变量和类变量及实例属性访问顺序/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="89" column="59" lean-forward="false" selection-start-line="89" selection-start-column="59" selection-end-line="89" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【27】Python面向对象(一)/04 类方法和静态方法装饰器/pro.py" />
-    <entry file="file://$PROJECT_DIR$/【27】Python面向对象(一)/05 访问控制-猴子补丁-属性装饰器-对象销毁/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【27】Python面向对象(一)/04 类方法和静态方法装饰器/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【53】前端开发之ES6入门(二)/aliyun.py" />
-    <entry file="file://$PROJECT_DIR$/【24】正则表达式和re模块/01 正则表达式元字符和重复/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【37】Python进程和线程(二)/01 线程安全和daemon/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【34】Python模块化/02 import和from语句使用/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【53】前端开发之ES6入门(二)/01 分支循环/test.py" />
-    <entry file="file://$PROJECT_DIR$/【53】前端开发之ES6入门(二)/test.py" />
-    <entry file="file://$PROJECT_DIR$/flask/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/cat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1095241182/builtins.py">
+    <entry file="file://$PROJECT_DIR$/【30】Python面向对象进阶(一)/01 dir的作用/animal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="5246" column="8" lean-forward="false" selection-start-line="5246" selection-start-column="8" selection-end-line="5246" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/super/code.py">
+    <entry file="file://$PROJECT_DIR$/【17】Python高阶函数与柯里化/04 B站讲解/code.py" />
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/装饰器/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="164" column="20" lean-forward="true" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="1293">
+          <caret line="280" column="11" selection-start-line="280" selection-start-column="11" selection-end-line="280" selection-end-column="11" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【32】Python面向对象进阶(三)/01 反射基本概念/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【2】Python开发之运维基础(一)/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod @property/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="90" column="13" lean-forward="false" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="80">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【17】Python高阶函数与柯里化/04 B站讲解/code.py">
+    <entry file="file://$PROJECT_DIR$/【3】Python开发之运维基础(二)/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/hasattr、getattr、setattr/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3600">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="183">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【24】正则表达式和re模块/01 正则表达式元字符和重复/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【24】正则表达式和re模块/02 正则的分组断言贪婪非贪婪/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/pymongodb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【50】Python数据库编程(二)/04 Pymysql使用/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【24】正则表达式和re模块/03 正则习题/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【24】正则表达式和re模块/04 Python的re模块使用/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/pymysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb/myRedis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/02 体验jQuery/jquery-3.4.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/02 体验jQuery/jQuery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/01 原生JS缺点/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/03 js的一个库/code.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/04 如何使用jQuery/code.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/【17】Python高阶函数与柯里化/01 高阶函数与柯里化/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【16】Python函数(三)递归和匿名函数/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/01 算法引入/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="103">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【28】Python面向对象(二)/03 单继承/code.py">
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/装饰器/code.py">
+    <entry file="file://D:/Program Files (x64)/Python3.6/Lib/timeit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="65" column="13" lean-forward="false" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="-557">
+          <caret line="163" column="8" selection-start-line="163" selection-start-column="8" selection-end-line="163" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
         </state>
       </provider>
     </entry>
