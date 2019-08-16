@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/【0】网络拾遗/super/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【0】网络拾遗/super/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +29,15 @@
     <favorites_list name="fullstack" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+            <state relative-caret-position="131">
+              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,8 +120,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="640" />
-    <option name="y" value="81" />
+    <option name="x" value="786" />
+    <option name="y" value="67" />
     <option name="width" value="1920" />
     <option name="height" value="1020" />
   </component>
@@ -185,10 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.code (3)">
-    <configuration name="jQuery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/fullstack/jQuery/02 体验jQuery/jQuery.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.code (4)">
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,6 +253,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="code (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,19 +298,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.jQuery.html" />
       <item itemvalue="Python.code" />
       <item itemvalue="Python.code (1)" />
       <item itemvalue="Python.code (2)" />
       <item itemvalue="Python.code (3)" />
+      <item itemvalue="Python.code (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code (4)" />
         <item itemvalue="Python.code (3)" />
         <item itemvalue="Python.code (2)" />
         <item itemvalue="Python.code (1)" />
         <item itemvalue="Python.code" />
-        <item itemvalue="JavaScript Debug.jQuery.html" />
       </list>
     </recent_temporary>
   </component>
@@ -331,6 +351,7 @@
       <workItem from="1562653645031" duration="1008000" />
       <workItem from="1565583718272" duration="3092000" />
       <workItem from="1565663426383" duration="444000" />
+      <workItem from="1565932171586" duration="1093000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1553495641884</created>
@@ -483,18 +504,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33168000" />
+    <option name="totallyTimeSpent" value="34261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.23605497" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.24009702" />
       <window_info id="Structure" order="1" weight="0.2497979" />
       <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.13662086" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49257812" weight="0.25222024" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49257812" visible="true" weight="0.38543516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -591,7 +611,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fullstack$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1562573309917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式" />
-    <SUITE FILE_PATH="coverage/fullstack$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1561343864815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb" />
+    <SUITE FILE_PATH="coverage/fullstack$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1565933090939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK" />
     <SUITE FILE_PATH="coverage/fullstack$redis.coverage" NAME="redis Coverage Results" MODIFIED="1561344914943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb" />
     <SUITE FILE_PATH="coverage/fullstack$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1562634068875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率" />
     <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1562571443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/01 算法引入" />
@@ -870,8 +890,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        <state relative-caret-position="131">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
