@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py" afterDir="false" />
-    </list>
+    <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -119,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="786" />
     <option name="y" value="67" />
     <option name="width" value="1920" />
@@ -351,7 +346,7 @@
       <workItem from="1562653645031" duration="1008000" />
       <workItem from="1565583718272" duration="3092000" />
       <workItem from="1565663426383" duration="444000" />
-      <workItem from="1565932171586" duration="1093000" />
+      <workItem from="1565932171586" duration="1739000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1553495641884</created>
@@ -504,7 +499,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34261000" />
+    <option name="totallyTimeSpent" value="34907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -514,7 +509,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.13662086" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49257812" visible="true" weight="0.38543516" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49257812" visible="true" weight="0.3090586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -611,7 +606,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fullstack$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1562573309917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式" />
-    <SUITE FILE_PATH="coverage/fullstack$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1565933090939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK" />
+    <SUITE FILE_PATH="coverage/fullstack$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1565933979899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK" />
     <SUITE FILE_PATH="coverage/fullstack$redis.coverage" NAME="redis Coverage Results" MODIFIED="1561344914943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb" />
     <SUITE FILE_PATH="coverage/fullstack$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1562634068875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率" />
     <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1562571443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/01 算法引入" />
@@ -890,11 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>

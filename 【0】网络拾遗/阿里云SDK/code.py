@@ -14,7 +14,6 @@ request = DescribeInstancesRequest.DescribeInstancesRequest()
 request.set_PageSize(100)
 request.set_accept_format('json')
 result = json.loads(client.do_action(request)).get('Instances').get('Instance')
-print(result)
 
 for line in result:
     # 另一种方法 print('过期时间', line.get('ExpiredTime'), end=',')
