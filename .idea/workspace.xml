@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/【0】网络拾遗/test/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【0】网络拾遗/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【0】网络拾遗/test/ngx.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fullstack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fullstack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【0】网络拾遗/test/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【0】网络拾遗/test/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【0】网络拾遗/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/【0】网络拾遗/字典排序/code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,15 +35,14 @@
     <favorites_list name="fullstack" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/code.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -65,8 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/test.txt" />
-        <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/03 文件指针操作/code.py" />
         <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/04 缓冲区/code.py" />
         <option value="$PROJECT_DIR$/【20】Python文件IO(一)文件操作/05 文件对象的读写方法/code.py" />
         <option value="$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/02 csv模块使用/code.py" />
@@ -114,20 +115,20 @@
         <option value="$PROJECT_DIR$/jQuery/07 $是一个函数/aaa.html" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/super/code.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py" />
-        <option value="$PROJECT_DIR$/【0】网络拾遗/test/code.py" />
+        <option value="$PROJECT_DIR$/../Program Files (x64)/Python3.6/Lib/site-packages/pysphere/vi_task.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/字典排序/code.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/test/test.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/test/code.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="691" />
-    <option name="y" value="93" />
-    <option name="width" value="1920" />
-    <option name="height" value="1020" />
+    <option name="x" value="178" />
+    <option name="y" value="37" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -152,6 +153,12 @@
               <item name="【0】网络拾遗" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fullstack" type="462c0819:PsiDirectoryNode" />
+              <item name="【0】网络拾遗" type="462c0819:PsiDirectoryNode" />
+              <item name="字典排序" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -166,18 +173,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fullstack\【0】网络拾遗\test" />
+      <recent name="E:\fullstack\jQuery\07 $是一个函数" />
+      <recent name="E:\fullstack\jQuery\06 jQuery的入口函数" />
+      <recent name="E:\fullstack\【20】Python文件IO(一)文件操作\06 上下文管理" />
+      <recent name="E:\fullstack\【35】Python包管理与Git版本管理\01 python包管理和打包分发" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\fullstack\【0】网络拾遗" />
       <recent name="E:\fullstack\jQuery\02 体验jQuery" />
       <recent name="E:\fullstack\jQuery" />
       <recent name="E:\fullstack\jQuery\01 原生JS缺点" />
       <recent name="E:\fullstack" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\fullstack\jQuery\07 $是一个函数" />
-      <recent name="E:\fullstack\jQuery\06 jQuery的入口函数" />
-      <recent name="E:\fullstack\【20】Python文件IO(一)文件操作\06 上下文管理" />
-      <recent name="E:\fullstack\【35】Python包管理与Git版本管理\01 python包管理和打包分发" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -193,50 +201,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.code (5)">
-    <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="fullstack" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="fullstack" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="code (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,20 +267,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/字典排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/字典排序/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.code (1)" />
-      <item itemvalue="Python.code (2)" />
       <item itemvalue="Python.code (3)" />
       <item itemvalue="Python.code (4)" />
       <item itemvalue="Python.code (5)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.code" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.code (5)" />
+        <item itemvalue="Python.code" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.code (4)" />
         <item itemvalue="Python.code (3)" />
-        <item itemvalue="Python.code (2)" />
-        <item itemvalue="Python.code (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -359,6 +367,16 @@
       <workItem from="1565663426383" duration="444000" />
       <workItem from="1565932171586" duration="2475000" />
       <workItem from="1565938783592" duration="580000" />
+      <workItem from="1567052670583" duration="1869000" />
+      <workItem from="1567055507107" duration="178000" />
+      <workItem from="1567059606135" duration="1098000" />
+      <workItem from="1567146277490" duration="1556000" />
+      <workItem from="1567147851034" duration="40000" />
+      <workItem from="1567387021178" duration="1000" />
+      <workItem from="1567390456116" duration="169000" />
+      <workItem from="1567393146276" duration="2510000" />
+      <workItem from="1567395676274" duration="28000" />
+      <workItem from="1567399322212" duration="1619000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1553495641884</created>
@@ -511,19 +529,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36223000" />
+    <option name="totallyTimeSpent" value="45291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.24413905" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.19805983" />
       <window_info id="Structure" order="1" weight="0.2497979" />
       <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.13662086" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49257812" weight="0.44404975" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49257812" visible="true" weight="0.31616342" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -538,7 +556,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32983023" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.23201293" />
@@ -567,6 +585,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -618,37 +639,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="8341" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fullstack$test.coverage" NAME="test Coverage Results" MODIFIED="1567395010458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/test" />
     <SUITE FILE_PATH="coverage/fullstack$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1562573309917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/02 时间复杂度和大O表达式" />
     <SUITE FILE_PATH="coverage/fullstack$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1565933979899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK" />
     <SUITE FILE_PATH="coverage/fullstack$redis.coverage" NAME="redis Coverage Results" MODIFIED="1561344914943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb" />
     <SUITE FILE_PATH="coverage/fullstack$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1562634068875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/Python列表不同操作效率" />
-    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1562571443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构和算法/01 算法引入" />
+    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1567400130792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/字典排序" />
     <SUITE FILE_PATH="coverage/fullstack$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1565583889906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/@classmethod @staticmethod @property" />
-    <SUITE FILE_PATH="coverage/fullstack$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1565939276780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/test" />
+    <SUITE FILE_PATH="coverage/fullstack$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1567401011314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/【22】 Python文件IO(三)高级文件操作和序列化/05 msgpack使用/code.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/02 习题命令分发器、copy和单词统计/code.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/04 Path对象基本操作/code.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/05 通配和文件操作/code.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【21】Python文件IO(二)路径操作/03 StringIO和BytesIO和os.path/code.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【33】Python异常处理/02 异常概念、产生和捕获/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/【33】Python异常处理/03 异常的继承、子句、嵌套、总结/code.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -901,11 +901,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/code.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/../Program Files (x64)/Python3.6/Lib/site-packages/pysphere/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Program Files (x64)/Python3.6/Lib/site-packages/pysphere/vi_task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="109" selection-start-line="109" selection-end-line="110" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Program Files (x64)/Python3.6/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="104" column="26" lean-forward="true" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1095241182/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="519" column="4" selection-start-line="519" selection-start-column="4" selection-end-line="519" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/ngx.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="158" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="158" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/test.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/字典排序/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
