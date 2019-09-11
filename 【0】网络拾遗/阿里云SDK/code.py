@@ -26,3 +26,4 @@ for line in result:
     print('运行状态', line['Status'], end='|')
     print('内网IP', line['NetworkInterfaces']['NetworkInterface'][0]['PrimaryIpAddress'], end='|')
     print('公网IP', line['PublicIpAddress']['IpAddress'])
+

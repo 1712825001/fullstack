@@ -1,3 +1,4 @@
+# 统计nginx日志
 f = open('ngx.log')
 res = {}
 while True:
