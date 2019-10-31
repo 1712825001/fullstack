@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/excel.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="103">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -129,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +174,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -399,6 +399,7 @@
       <workItem from="1569820536634" duration="4482000" />
       <workItem from="1570678415494" duration="1295000" />
       <workItem from="1570850041764" duration="598000" />
+      <workItem from="1572422331803" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1553495641884</created>
@@ -551,13 +552,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58698000" />
+    <option name="totallyTimeSpent" value="58771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="80" width="960" height="622" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.34257206" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.3503326" />
       <window_info id="Structure" order="1" weight="0.2497979" />
       <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.13662086" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -988,7 +989,7 @@
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
