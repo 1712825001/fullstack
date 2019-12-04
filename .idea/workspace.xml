@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="" />
+    <list default="true" id="48fa1be0-4b8c-4679-b5df-56c76a303633" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/【0】网络拾遗/test/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/【0】网络拾遗/test/code.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +31,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/excel.py">
+        <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="351">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/ngx.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="3" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -105,7 +113,6 @@
         <option value="$PROJECT_DIR$/【0】网络拾遗/字典排序/code.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/test/func.log" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/test/test.py" />
-        <option value="$PROJECT_DIR$/【0】网络拾遗/test/code.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/阿里云SDK/code.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/test/zabbix_api.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/zabbix_api/zabbix_base.py" />
@@ -114,12 +121,13 @@
         <option value="$PROJECT_DIR$/【0】网络拾遗/zabbix_api/zabbix_addGroup.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/zabbix_api/zabbix_addHost.py" />
         <option value="$PROJECT_DIR$/【0】网络拾遗/test/excel.py" />
+        <option value="$PROJECT_DIR$/【0】网络拾遗/test/code.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="120" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="327" />
+    <option name="y" value="108" />
     <option name="width" value="1440" />
     <option name="height" value="933" />
   </component>
@@ -146,19 +154,7 @@
               <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
               <item name="fullstack" type="462c0819:PsiDirectoryNode" />
               <item name="【0】网络拾遗" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="【0】网络拾遗" type="462c0819:PsiDirectoryNode" />
               <item name="装饰器" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="【0】网络拾遗" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里云SDK" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fullstack" type="b2602c69:ProjectViewProjectNode" />
@@ -212,7 +208,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.excel">
+  <component name="RunManager" selected="Python.code">
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/test/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,28 +245,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/test/excel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zabbix_addGroup" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="fullstack" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/【0】网络拾遗/zabbix_api" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/【0】网络拾遗/zabbix_api/zabbix_addGroup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,17 +322,17 @@
     <list>
       <item itemvalue="Python.zabbix_group" />
       <item itemvalue="Python.zabbix_template" />
-      <item itemvalue="Python.zabbix_addGroup" />
       <item itemvalue="Python.zabbix_addHost" />
       <item itemvalue="Python.excel" />
+      <item itemvalue="Python.code" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code" />
         <item itemvalue="Python.excel" />
         <item itemvalue="Python.zabbix_addHost" />
         <item itemvalue="Python.zabbix_template" />
         <item itemvalue="Python.zabbix_group" />
-        <item itemvalue="Python.zabbix_addGroup" />
       </list>
     </recent_temporary>
   </component>
@@ -401,6 +397,7 @@
       <workItem from="1570850041764" duration="598000" />
       <workItem from="1572422331803" duration="73000" />
       <workItem from="1573537353067" duration="8000" />
+      <workItem from="1575248362172" duration="6874000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1553495641884</created>
@@ -553,17 +550,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58779000" />
+    <option name="totallyTimeSpent" value="65653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="80" width="960" height="622" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.3580931" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.26677445" />
       <window_info id="Structure" order="1" weight="0.2497979" />
       <window_info id="Favorites" order="2" sideWeight="0.5008881" side_tool="true" weight="0.13662086" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49257812" weight="0.3244898" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49257812" weight="0.28241563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -673,8 +671,8 @@
     <SUITE FILE_PATH="coverage/fullstack$excel.coverage" NAME="excel Coverage Results" MODIFIED="1570681317059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/test" />
     <SUITE FILE_PATH="coverage/fullstack$redis.coverage" NAME="redis Coverage Results" MODIFIED="1561344914943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/python连接mysql、redis、mongodb" />
     <SUITE FILE_PATH="coverage/fullstack$zabbix_api.coverage" NAME="zabbix_api Coverage Results" MODIFIED="1569820794597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/test" />
-    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1567400130792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/字典排序" />
     <SUITE FILE_PATH="coverage/fullstack$zabbix_group.coverage" NAME="zabbix_group Coverage Results" MODIFIED="1569824234487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/zabbix_api" />
+    <SUITE FILE_PATH="coverage/fullstack$code.coverage" NAME="code Coverage Results" MODIFIED="1575268211363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/test" />
     <SUITE FILE_PATH="coverage/fullstack$zabbix_addGroup.coverage" NAME="zabbix_addGroup Coverage Results" MODIFIED="1569824130435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/zabbix_api" />
     <SUITE FILE_PATH="coverage/fullstack$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1568107375889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/test" />
     <SUITE FILE_PATH="coverage/fullstack$zabbix_addHost.coverage" NAME="zabbix_addHost Coverage Results" MODIFIED="1569824352789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/【0】网络拾遗/zabbix_api" />
@@ -903,13 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/装饰器/code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7560">
@@ -917,22 +908,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/func.log">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/ngx.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="158" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="158" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/zabbix_api.py" />
     <entry file="file://$PROJECT_DIR$/zabbix_base.py">
@@ -986,13 +963,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
+        <state relative-caret-position="116">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/ngx.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【0】网络拾遗/test/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
